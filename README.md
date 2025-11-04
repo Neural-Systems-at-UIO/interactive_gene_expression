@@ -4,13 +4,13 @@ In this project we created a number of repositories.
 
 For downloading the data see:
 
-  https://github.com/PolarBean/allen_download_utilities
+  https://github.com/Neural-Systems-at-UIO/allen_download_utilities
   
 For aligning the data see:
 
-  https://github.com/PolarBean/registration_of_Allen
+  https://github.com/Neural-Systems-at-UIO/ABA_registration
   
 and for interpolating and analysis see:
 
-  https://github.com/PolarBean/cellular_resolution_atlas_of_gene_expression
+  https://github.com/Neural-Systems-at-UIO/spatial_brain_maps
   
