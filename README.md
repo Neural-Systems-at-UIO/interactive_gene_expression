@@ -1,4 +1,4 @@
-# Realignment_of_Allen_ISH
+# scripts and data related to "An interactive 3D atlas of gene expression in the mouse brain"
 
 In this project we created a number of repositories. 
 
