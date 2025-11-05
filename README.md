@@ -14,3 +14,6 @@ and for interpolating and analysis see:
 
   https://github.com/Neural-Systems-at-UIO/spatial_brain_maps
   
+# Acknowledgements
+
+These tools were developed with support from the EBRAINS infrastructure, and funding from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under the Framework Partnership Agreement No. 650003 (HBP FPA).
